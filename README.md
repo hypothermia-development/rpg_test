@@ -1,2 +1,4 @@
 # rpg_test
-rpg test is the first test for console rpgs using hypothermia core and other things
+this is going to be the first test for text-based rpg games with hypothermia core
+
+probably wont work, syntax is a bit off other minor problems
