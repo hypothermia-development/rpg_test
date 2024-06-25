@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "core.h"
 /*
 
 rpg test classes
