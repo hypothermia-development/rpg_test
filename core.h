@@ -1,5 +1,11 @@
+#pragma once
+
+
+
+
 #include <iostream>
 #include <cstdlib> 
+
 #define RAND_MAX = 100
 /*
 
@@ -12,6 +18,13 @@ Tick System
 random numbers
 
 other features
+
+
+
+TODO (pls help)
+
+find replacement for _sleep
+add more!
 
 */
 
