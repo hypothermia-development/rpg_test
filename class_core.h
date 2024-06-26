@@ -20,7 +20,7 @@ public:
 
 
 
-    bool attack(int enemy_ac, int j)
+    bool check_attack(int enemy_ac, int j)
     {
         if (j > enemy_ac) 
         {
